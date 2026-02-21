@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kemilly Motta</h1>
+<h3 align="center">Aspiring Backend Developer</h3>
 
-<!--
-**kemillymotta/kemillymotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Actively preparing to start my career in backend development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+• Internet Systems student at FATEC  
+• Studying software development at university and on my own  
+• Focused on backend development  
+• Practicing Java through exercises and projects  
+• Always improving my problem solving skills
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kemillymotta&show_icons=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemillymotta&layout=compact" />
+
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=kemillymotta" />
+
+</p>
+
+---
+
+# Tech Stack
+
+<p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</p>
+
+---
+
+# Tools
+
+<p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</p>
+
+---
+
+# Platforms
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+# Currently Learning
+
+• Java  
+• Object-Oriented Programming  
+• Data Structures  
+• Git & GitHub  
+• Backend Development Fundamentals
+
+---
+
+# Featured Repository
+
+**Java Exercises**
+
+A repository where I practice programming concepts, logic, and object-oriented programming using Java.
