@@ -10,14 +10,6 @@ I'm an Internet Systems student at FATEC and I'm currently building my path towa
 
 ---
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kemillymotta&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemillymotta&layout=compact)
-
----
-
 # Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
