@@ -1,12 +1,12 @@
 # Hi, I'm Kemilly Motta
 ### Aspiring Backend Developer
 
-I'm an Internet Systems student at FATEC and I'm currently building my path toward backend development.
+I'm an Internet Systems student at FATEC, currently focused on building my skills in backend development.
 
 • Studying software development at university and on my own  
 • Focused on backend development with Java  
 • Practicing problem solving through exercises and projects  
-• Actively preparing to start my career in backend development
+• Actively preparing to start my career in tech
 
 ---
 
@@ -41,3 +41,11 @@ I'm an Internet Systems student at FATEC and I'm currently building my path towa
 • Data Structures  
 • Git & GitHub  
 • Backend development fundamentals
+
+---
+
+# GitHub Stats
+
+![Kemilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemillymotta&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemillymotta&layout=compact)
