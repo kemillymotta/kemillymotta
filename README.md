@@ -43,8 +43,8 @@ I'm an Internet Systems student at FATEC, currently focused on building my skill
 • Data Structures  
 • Git & GitHub  
 • Backend development fundamentals 
-• Linux 
-• Ubuntu 
+• Linux
+• Ubuntu
 
 ---
 
