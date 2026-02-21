@@ -25,6 +25,8 @@ I'm an Internet Systems student at FATEC, currently focused on building my skill
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -41,6 +43,8 @@ I'm an Internet Systems student at FATEC, currently focused on building my skill
 • Data Structures  
 • Git & GitHub  
 • Backend development fundamentals
+• Linux
+• Ubuntu
 
 ---
 
