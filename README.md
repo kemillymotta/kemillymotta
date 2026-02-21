@@ -1,45 +1,38 @@
-<h1 align="center">Hi, I'm Kemilly Motta</h1>
-<h3 align="center">Aspiring Backend Developer</h3>
+# Hi, I'm Kemilly Motta
+### Aspiring Backend Developer
 
-<p align="center">
-Actively preparing to start my career in backend development.
-</p>
+I'm an Internet Systems student at FATEC and I'm currently building my path toward backend development.
+
+• Studying software development at university and on my own  
+• Focused on backend development with Java  
+• Practicing problem solving through exercises and projects  
+• Actively preparing to start my career in backend development
 
 ---
 
-## About Me
+# GitHub Stats
 
-• Internet Systems student at FATEC  
-• Studying software development at university and on my own  
-• Focused on backend development  
-• Practicing Java through exercises and projects  
-• Always improving my problem solving skills
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kemillymotta&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemillymotta&layout=compact)
 
 ---
 
 # Tech Stack
-
-<p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</p>
-
 ---
 
 # Tools
-
-<p>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</p>
 
 ---
 
@@ -55,12 +48,4 @@ Actively preparing to start my career in backend development.
 • Object-Oriented Programming  
 • Data Structures  
 • Git & GitHub  
-• Backend Development Fundamentals
-
----
-
-# Featured Repository
-
-**Java Exercises**
-
-A repository where I practice programming concepts, logic, and object-oriented programming using Java.
+• Backend development fundamentals
