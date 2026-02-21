@@ -17,28 +17,6 @@ Actively preparing to start my career in backend development.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kemillymotta&show_icons=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemillymotta&layout=compact" />
-
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=kemillymotta" />
-
-</p>
-
----
-
 # Tech Stack
 
 <p>
