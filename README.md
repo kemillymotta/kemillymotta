@@ -50,6 +50,6 @@ I'm an Internet Systems student at FATEC, currently focused on building my skill
 
 # GitHub Stats
 
-![Kemilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemillymotta&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kemillymotta&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemillymotta&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemillymotta&layout=compact&theme=tokyonight)
