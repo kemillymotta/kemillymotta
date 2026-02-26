@@ -23,8 +23,8 @@ I'm an Internet Systems student at FATEC, currently focused on building my skill
 # Tools
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ---
 
@@ -40,6 +40,8 @@ I'm an Internet Systems student at FATEC, currently focused on building my skill
 - Java
 - Object-Oriented Programming
 - Data Structures
+- C++
+- Data Structure
 - Git & GitHub
 - Backend development fundamentals
 - Linux
