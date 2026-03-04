@@ -46,12 +46,10 @@ I'm an Internet Systems student at FATEC, currently focused on building my skill
 
 # Currently Learning
 
-- Java
-- Object-Oriented Programming
-- Data Structures
-- C++
-- Data Structure
+I’m currently deepening my knowledge in:
+- Java and Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (Java and C++)
+- Backend Development Fundamentals
+- Spring Framework
 - Git & GitHub
-- Backend development fundamentals
-- Linux
-- Ubuntu
+- Linux (Ubuntu)
