@@ -52,17 +52,17 @@ One commit at a time.
 
 > Deepening my knowledge and building strong foundations in:
 
-### ☕ Java
+### Java
 ![OOP](https://img.shields.io/badge/OOP-f78166?style=flat-square)
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-f78166?style=flat-square)
 
-### ⚙️ C++
+### C++
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-79c0ff?style=flat-square)
 
-### 🌿 Backend
+### Backend
 ![Spring](https://img.shields.io/badge/Spring_Framework-7ee787?style=flat-square)
 ![REST](https://img.shields.io/badge/REST_APIs-7ee787?style=flat-square)
 
-### 🔧 DevOps
+### DevOps
 ![Git](https://img.shields.io/badge/Git_%26_GitHub-d2a8ff?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-d2a8ff?style=flat-square)
