@@ -1,10 +1,10 @@
-# Hi, I'm Kemilly Motta 👋
+# Hi, I'm Kemilly Motta 
 I'm an Internet Systems student at FATEC, always curious and looking for new things to learn in tech.
 I picked Java as my main language, partly because everyone says they hate it, and honestly that made me
-want to try it even more (and yes, I love Duke 🏆). I also have a growing interest in cybersecurity
+want to try it even more (and yes, I love Duke). I also have a growing interest in cybersecurity
 and love exploring different areas of the field.
 
-One commit at a time. 🚀
+One commit at a time.
 
 💻 <strong>Languages: </strong><br><br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2C3F70&color=2C3F70)
