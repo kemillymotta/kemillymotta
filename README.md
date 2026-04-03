@@ -1,5 +1,5 @@
 <img src="assets/Kemilly Motta.svg" alt="title" width="100%" align="center">
-# Hi, I'm Kemilly Motta 
+
 I'm an Internet Systems student at FATEC, always curious and looking for new things to learn in tech.
 I picked Java as my main language, partly because everyone says they hate it, and honestly that made me
 want to try it even more (and yes, I love Duke). I also have a growing interest in cybersecurity
