@@ -52,17 +52,17 @@ One commit at a time.
 
 > Deepening my knowledge and building strong foundations in:
 
-### Java
-![OOP](https://img.shields.io/badge/OOP-f78166?style=flat-square)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-f78166?style=flat-square)
+**Java**
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-3d1a16?style=for-the-badge&logoColor=f78166)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3d1a16?style=for-the-badge&logoColor=f78166)
 
-### C++
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-79c0ff?style=flat-square)
+**C++**
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d2640?style=for-the-badge&logoColor=79c0ff)
 
-### Backend
-![Spring](https://img.shields.io/badge/Spring_Framework-7ee787?style=flat-square)
-![REST](https://img.shields.io/badge/REST_APIs-7ee787?style=flat-square)
+**Backend**
+![Spring](https://img.shields.io/badge/Spring_Framework-0d2b14?style=for-the-badge&logoColor=7ee787)
+![REST](https://img.shields.io/badge/REST_APIs-0d2b14?style=for-the-badge&logoColor=7ee787)
 
-### DevOps
-![Git](https://img.shields.io/badge/Git_%26_GitHub-d2a8ff?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-d2a8ff?style=flat-square)
+**DevOps**
+![Git](https://img.shields.io/badge/Git_%26_GitHub-211335?style=for-the-badge&logoColor=d2a8ff)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-211335?style=for-the-badge&logoColor=d2a8ff)
