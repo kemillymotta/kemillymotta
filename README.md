@@ -64,5 +64,4 @@ One commit at a time.
 ![REST](https://img.shields.io/badge/REST_APIs-0d2b14?style=for-the-badge&logoColor=7ee787)
 
 <strong>Tools & Environment<strong><br>
-![Git](https://img.shields.io/badge/Git_%26_GitHub-211335?style=for-the-badge&logoColor=d2a8ff)
 ![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-211335?style=for-the-badge&logoColor=d2a8ff)
