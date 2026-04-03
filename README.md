@@ -54,7 +54,7 @@ One commit at a time.
 
 | Area | Topics |
 |------|--------|
-| ☕ Java | Object-Oriented Programming (OOP), Data Structures & Algorithms |
-| ⚙️ C++ | Data Structures & Algorithms |
-| 🌱 Backend | Spring Framework, REST APIs |
-| 🛠️ DevOps | Git & GitHub, Linux (Ubuntu) |
+| Java | Object-Oriented Programming (OOP), Data Structures & Algorithms |
+| C++ | Data Structures & Algorithms |
+| Backend | Spring Framework, REST APIs |
+| DevOps | Git & GitHub, Linux (Ubuntu) |
