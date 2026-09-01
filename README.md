@@ -54,16 +54,17 @@ One commit at a time.
 
 > Deepening my knowledge and building strong foundations in:
 
-<strong>Java<strong><br>
+<strong>Java</strong><br>
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-3d1a16?style=for-the-badge&logoColor=f78166)
+![Collections](https://img.shields.io/badge/Collections_Framework-3d1a16?style=for-the-badge&logoColor=f78166)
+![Functional Programming](https://img.shields.io/badge/Functional_Programming_%26_Lambdas-3d1a16?style=for-the-badge&logoColor=f78166)
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3d1a16?style=for-the-badge&logoColor=f78166)
 
-<strong>C++<strong><br>
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d2640?style=for-the-badge&logoColor=79c0ff)
+<strong>Databases</strong><br>
+![SQL](https://img.shields.io/badge/SQL-0d2640?style=for-the-badge&logoColor=79c0ff)
+![Database Modeling](https://img.shields.io/badge/Database_Modeling-0d2640?style=for-the-badge&logoColor=79c0ff)
 
-<strong>Backend<strong><br>
-![Spring](https://img.shields.io/badge/Spring_Framework-0d2b14?style=for-the-badge&logoColor=7ee787)
-![REST](https://img.shields.io/badge/REST_APIs-0d2b14?style=for-the-badge&logoColor=7ee787)
-
-<strong>Tools & Environment<strong><br>
+<strong>Tools & Environment</strong><br>
+![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-0d2b14?style=for-the-badge&logoColor=7ee787)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0d2b14?style=for-the-badge&logoColor=7ee787)
 ![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-211335?style=for-the-badge&logoColor=d2a8ff)
